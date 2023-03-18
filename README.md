@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # Transfers and Transactions
 
 ## Statistic Details
