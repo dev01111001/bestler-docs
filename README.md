@@ -8,9 +8,9 @@ description: Descriptions on details and options.
 
 ### Transfer Count
 
-Crosschain-transactions got an outgoing transaction on the source chain and an incoming transaction on the destination chain. Only successful outgoing transactions are counted towards this statistic. In other words: This shows the number of successful cross-chain token transfers from the chain selected.
+Crosschain-transactions got an outgoing transaction on the source chain and an incoming transaction on the destination chain. Only successful outgoing transactions are counted towards this statistic. In other words: This shows the number of successful cross-chain token transfers initiated from the chain selected.
 
-### Transfers Unique Wallets
+### Transfers by Unique Wallets
 
 If a wallet does multiple transfers it gets counted once only.
 
