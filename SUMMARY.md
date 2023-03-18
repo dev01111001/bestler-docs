@@ -7,5 +7,5 @@
 
 ## en
 
-* [Transfers and Transactions](<README (1).md>)
+* [Transfers and Transactions](README.md)
 * [Monitor](monitor.md)
