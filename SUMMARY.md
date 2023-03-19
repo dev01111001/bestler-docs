@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Transfers and Transactions](README.md)
+* [Pantos](README.md)
+* [Transfers and Transactions](<README (1).md>)
 * [Transfer Monitor](monitor.md)
