@@ -6,7 +6,7 @@
 
 Cross-chain transfers got an outgoing transaction on the source chain and an incoming transaction on the destination chain. Only successful outgoing transactions are counted towards this statistic. In other words: This shows the number of successful cross-chain token transfers initiated from the chain selected.
 
-On-chain transfers are sending assets onto the same chain. Those are handled in a  single transaction.
+On-chain transfers are sending assets onto the same chain. Those are handled in a single transaction.
 
 ### Transfers by Unique Wallets
 
@@ -15,6 +15,10 @@ If a wallet does multiple transfers it gets counted once only.
 ### Transaction Count
 
 All transactions including outgoing, incoming and failed ones.
+
+### Failed Transactions
+
+Transactions may fail due to the following reasons: \[TODO]
 
 ## Options
 
