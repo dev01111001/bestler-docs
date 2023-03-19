@@ -18,7 +18,7 @@ All transactions including outgoing, incoming and failed ones.
 
 ### Failed Transactions
 
-Transactions may fail due to the following reasons: \[TODO]
+Transactions not completing on the chain selected.
 
 ## Options
 

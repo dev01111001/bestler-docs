@@ -2,4 +2,4 @@
 
 * [Pantos](README.md)
 * [Transfers and Transactions](<README (1).md>)
-* [Transactions Monitor](transactions-monitor.md)
+* [Transactions Monitor](monitor.md)
