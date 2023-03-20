@@ -1,5 +1,5 @@
 ---
-description: Real-Time activity data.
+description: Real-time activity data.
 ---
 
 # Transactions Monitor
