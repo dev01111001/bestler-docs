@@ -6,6 +6,6 @@ description: Transfers travelling the chains
 
 ## Functions
 
-Hovering the ring will show all arrows of outgoing and incoming transfers of that chain.
+Hovering the ring will show all arrows of outgoing and incoming transfers on that chain.
 
-Hovering arrows will show outgoing transfers of that chain only plus a tooltip including the transfer count.
+Hovering arrows will show outgoing transfers of that chain only. A tooltip including the transfer count gets shown.
