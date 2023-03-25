@@ -14,7 +14,7 @@ If a wallet does multiple transfers it gets counted once only.
 
 ### Transaction Count
 
-All transactions including outgoing, incoming and failed ones.
+All transactions including outgoing, incoming and failed ones. This number does not include token warps/unwarps.
 
 ### Failed Transactions
 
