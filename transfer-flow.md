@@ -4,6 +4,10 @@ description: Transfers travelling the chains
 
 # Transfer Flow
 
+## Statistic Details
+
+This shows cross-chain-transfers initiated, regardless of when the incoming transaction effectively happens on the destination chain.
+
 ## Functions
 
 Hovering the ring will show all arrows of outgoing and incoming transfers on that chain.
