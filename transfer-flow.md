@@ -6,7 +6,7 @@ description: Transfers travelling the chains
 
 ## Statistic Details
 
-This shows cross-chain-transfers initiated, regardless of when the incoming transaction effectively happens on the destination chain.
+Regardless of when the incoming transaction effectively happens on the destination chain this statistic shows cross-chain-transfers initiated.
 
 ## Functions
 
