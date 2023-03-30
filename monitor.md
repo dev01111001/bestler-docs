@@ -6,5 +6,5 @@ description: Real-time activity data.
 
 ## Statistic Details
 
-Shows all user transactions initiated via Pantos smart contracts. This number does not include token warps/unwarps.\
+Shows transfer transactions happening via Pantos smart contracts. This does not include token warps/unwarps.\
 New data gets pushed within just a few seconds after they happened on the chains.
